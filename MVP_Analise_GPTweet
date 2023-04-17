@@ -1,4 +1,4 @@
-echo "# MVP_Analise_CFEM" >> README.md
+echo "# MVP_Analise_AnaliseTweetGPT" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
